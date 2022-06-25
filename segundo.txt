@@ -1,1 +1,1 @@
-meu segundo arquivo da aula de git 
+meu segundo arquivo da aula de git, e estou ajustando essa linha para para o bug 
